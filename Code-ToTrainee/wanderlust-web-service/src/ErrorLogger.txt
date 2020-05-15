@@ -1,0 +1,916 @@
+Error: Could not connect to Database
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\utilities\connections.js:22:19
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Could not connect to Database
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\utilities\connections.js:22:19
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Could not connect to Database
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\utilities\connections.js:22:19
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Could not connect to Database
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\utilities\connections.js:22:19
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Could not connect to Database
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\utilities\connections.js:22:19
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Could not connect to Database
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\utilities\connections.js:22:19
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Could not connect to Database
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\utilities\connections.js:22:19
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Could not connect to Database
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\utilities\connections.js:22:19
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Could not connect to Database
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\utilities\connections.js:22:19
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Incorrect password
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Incorrect password
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Incorrect password
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Incorrect password
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Incorrect password
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Incorrect password
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Incorrect password
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Incorrect password
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Incorrect password
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Incorrect password
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Incorrect password
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Incorrect password
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Incorrect password
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Incorrect password
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Incorrect password
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Incorrect password
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Incorrect password
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Incorrect password
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Incorrect password
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Incorrect password
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Could not connect to Database
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\utilities\connections.js:22:19
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: connection.getDestinationsCollection is not a function
+    at Object.setUp.destinationsSetup (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\model\setupPackages.js:738:23)
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\routes\packageRouter.js:8:11
+    at Layer.handle [as handle_request] (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:275:10)
+TypeError: connection.getdestinationsCollection is not a function
+    at Object.packageDB.destination (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\model\packageDestinations.js:17:23)
+    at Object.packageService.destination (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\packageDestinations.js:41:22)
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\routes\packageRouter.js:29:20
+    at Layer.handle [as handle_request] (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:354:14)
+    at param (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:410:3)
+    at next (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:317:13)
+TypeError: connection.getdestinationsCollection is not a function
+    at Object.packageDB.destination (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\model\packageDestinations.js:17:23)
+    at Object.packageService.destination (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\packageDestinations.js:41:22)
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\routes\packageRouter.js:29:20
+    at Layer.handle [as handle_request] (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:354:14)
+    at param (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:410:3)
+    at next (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:317:13)
+TypeError: connection.getdestinationsCollection is not a function
+    at Object.packageDB.destination (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\model\packageDestinations.js:17:23)
+    at Object.packageService.destination (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\packageDestinations.js:41:22)
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\routes\packageRouter.js:29:20
+    at Layer.handle [as handle_request] (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:354:14)
+    at param (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:410:3)
+    at next (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:317:13)
+TypeError: connection.getdestinationsCollection is not a function
+    at Object.packageDB.destination (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\model\packageDestinations.js:17:23)
+    at Object.packageService.destination (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\packageDestinations.js:41:22)
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\routes\packageRouter.js:29:20
+    at Layer.handle [as handle_request] (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:354:14)
+    at param (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:410:3)
+    at next (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:317:13)
+TypeError: connection.getdestinationsCollection is not a function
+    at Object.packageDB.destination (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\model\packageDestinations.js:17:23)
+    at Object.packageService.destination (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\packageDestinations.js:41:22)
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\routes\packageRouter.js:29:20
+    at Layer.handle [as handle_request] (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:354:14)
+    at param (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:410:3)
+    at next (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:317:13)
+Error: Sorry we don't operate in this Destination
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\packageDestinations.js:43:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Sorry we don't operate in this Destination
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\packageDestinations.js:43:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Sorry we don't operate in this Destination
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\packageDestinations.js:43:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Sorry we don't operate in this Destination
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\packageDestinations.js:43:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Sorry we don't operate in this Destination
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\packageDestinations.js:43:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Sorry we don't operate in this Destination
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\packageDestinations.js:43:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Incorrect password
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter correct password
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter correct password
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter correct password
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter correct password
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Sorry we don't operate in this Destination
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\packageDestinations.js:43:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Sorry we don't operate in this Destination
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\packageDestinations.js:43:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Sorry we don't operate in this Destination
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\packageDestinations.js:43:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Sorry we don't operate in this Destination
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\packageDestinations.js:43:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Sorry we don't operate in this Destination
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\packageDestinations.js:43:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Sorry we don't operate in this Destination
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\packageDestinations.js:43:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Sorry we don't operate in this Destination
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\packageDestinations.js:43:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Sorry we don't operate in this Destination
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\packageDestinations.js:43:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Sorry we don't operate in this Destination
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\packageDestinations.js:43:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Sorry we don't operate in this Destination
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\packageDestinations.js:43:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Sorry we don't operate in this Destination
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\packageDestinations.js:43:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Sorry we don't operate in this Destination
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\packageDestinations.js:43:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Sorry we don't operate in this Destination
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\packageDestinations.js:43:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Sorry we don't operate in this Destination
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\packageDestinations.js:43:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Sorry we don't operate in this Destination
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\packageDestinations.js:43:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Sorry we don't operate in this Destination
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\packageDestinations.js:43:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Sorry we don't operate in this Destination
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\packageDestinations.js:43:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Sorry we don't operate in this Destination
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\packageDestinations.js:43:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Sorry we don't operate in this Destination
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\packageDestinations.js:43:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Sorry we don't operate in this Destination
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\packageDestinations.js:43:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+ReferenceError: availabilty is not defined
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\model\packageDestinations.js:38:43
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+ReferenceError: availabilty is not defined
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\model\packageDestinations.js:38:43
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Booking Failed!! Please try again!!
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:43:39
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Booking Failed!! Please try again!!
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:43:39
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have a another package booked in selected trip span
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:46:35
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have a another package booked in selected trip span
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:46:35
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have a another package booked in selected trip span
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:46:35
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have a another package booked in selected trip span
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:46:35
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have a another package booked in selected trip span!!
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:46:35
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have a another package booked in selected trip span!!
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:46:35
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have a another package booked in selected trip span!!
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:46:35
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have a another package booked in selected trip span!!
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:46:35
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have a another package booked in selected trip span!!
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:46:35
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have a another package booked in selected trip span!!
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:46:35
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have a another package booked in selected trip span!!
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:46:35
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have a another package booked in selected trip span!!
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:46:35
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have a another package booked in selected trip span!!
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:49:35
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have a another package booked in selected trip span!!
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:49:35
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have a another package booked in selected trip span!!
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:44:35
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have a another package booked in selected trip span!!
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:50:35
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have a another package booked in selected trip span!!
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:50:35
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have a another package booked in selected trip span!!
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:54:35
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have a another package booked in selected trip span!!
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:54:35
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have a another package booked in selected trip span!!
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:54:35
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+CastError: Cast to string failed for value "{
+  _id: 5eb7df0478c4332b7085c046,
+  destinationName: 'Grand Tour of Australia',
+  checkInDate: '2020-05-16',
+  checkOutDate: '2020-05-30',
+  noOfPersons: 2,
+  totalCharges: 9598,
+  timeStamp: '1589108484003',
+  destId: 'D1006',
+  userId: 'U1003',
+  bookingId: 'B1004',
+  __v: 0
+}" at path "userId" for model "User"
+    at new CastError (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\error\cast.js:29:11)
+    at model.Query.exec (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\query.js:4341:21)
+    at model.Query.Query.then (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\query.js:4433:15)
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:57:93
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter the registered contact number!
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+CastError: Cast to string failed for value "{
+  _id: 5eb7e03578c4332b7085c05b,
+  destinationName: 'Grand Tour of Australia',
+  checkInDate: '2020-05-16',
+  checkOutDate: '2020-05-30',
+  noOfPersons: 2,
+  totalCharges: 9598,
+  timeStamp: '1589108789668',
+  destId: 'D1006',
+  userId: 'U1003',
+  bookingId: 'B1004',
+  __v: 0
+}" at path "userId" for model "User"
+    at new CastError (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\error\cast.js:29:11)
+    at model.Query.exec (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\query.js:4341:21)
+    at model.Query.Query.then (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\query.js:4433:15)
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:57:93
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+CastError: Cast to string failed for value "{
+  _id: 5eb7e13b1f08562594f46fec,
+  destinationName: 'Grand Tour of Australia',
+  checkInDate: '2020-05-16',
+  checkOutDate: '2020-05-30',
+  noOfPersons: 2,
+  totalCharges: 9598,
+  timeStamp: '1589109051426',
+  destId: 'D1006',
+  userId: 'U1003',
+  bookingId: 'B1004',
+  __v: 0
+}" at path "userId" for model "User"
+    at new CastError (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\error\cast.js:29:11)
+    at model.Query.exec (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\query.js:4341:21)
+    at model.Query.Query.then (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\query.js:4433:15)
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:57:93
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+CastError: Cast to string failed for value "{
+  _id: 5eb7e1b29783a617e877d7b8,
+  destinationName: 'Grand Tour of Australia',
+  checkInDate: '2020-05-16',
+  checkOutDate: '2020-05-30',
+  noOfPersons: 2,
+  totalCharges: 9598,
+  timeStamp: '1589109170825',
+  destId: 'D1006',
+  userId: 'U1003',
+  bookingId: 'B1004',
+  __v: 0
+}" at path "userId" for model "User"
+    at new CastError (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\error\cast.js:29:11)
+    at model.Query.exec (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\query.js:4341:21)
+    at model.Query.Query.then (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\query.js:4433:15)
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:57:93
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+CastError: Cast to string failed for value "{
+  _id: 5eb7e2316aaf73264407a015,
+  destinationName: 'Grand Tour of Australia',
+  checkInDate: '2020-05-16',
+  checkOutDate: '2020-05-30',
+  noOfPersons: 2,
+  totalCharges: 9598,
+  timeStamp: '1589109297549',
+  destId: 'D1006',
+  userId: 'U1003',
+  bookingId: 'B1004',
+  __v: 0
+}" at path "bookings"
+    at new CastError (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\error\cast.js:29:11)
+    at model.Query.exec (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\query.js:4341:21)
+    at model.Query.Query.then (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\query.js:4433:15)
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:57:93
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have a another package booked in selected trip span!!
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:54:35
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+ReferenceError: bookingServices is not defined
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\routes\bookingsRouter.js:42:5
+    at Layer.handle [as handle_request] (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:354:14)
+    at param (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:410:3)
+    at next (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:335:12)
+ReferenceError: bookingServices is not defined
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\routes\bookingsRouter.js:42:5
+    at Layer.handle [as handle_request] (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:354:14)
+    at param (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:410:3)
+    at next (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:335:12)
+ReferenceError: bookingServices is not defined
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\routes\bookingsRouter.js:42:5
+    at Layer.handle [as handle_request] (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:354:14)
+    at param (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:410:3)
+    at next (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:335:12)
+ReferenceError: bookingServices is not defined
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\routes\bookingsRouter.js:42:5
+    at Layer.handle [as handle_request] (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:354:14)
+    at param (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:410:3)
+    at next (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:335:12)
+ReferenceError: bookingService is not defined
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\routes\bookingsRouter.js:42:5
+    at Layer.handle [as handle_request] (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:354:14)
+    at param (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:410:3)
+    at next (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:335:12)
+Error: Sorry couldn't cancel..!! Please try again!!
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:102:31
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: remove-Sorry couldn't cancel..!! Please try again!!
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:102:31
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: remove-Sorry couldn't cancel..!! Please try again!!
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:102:31
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: remove-Sorry couldn't cancel..!! Please try again!!
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:102:31
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: remove-Sorry couldn't cancel..!! Please try again!!
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:102:31
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: remove-Sorry couldn't cancel..!! Please try again!!
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:102:31
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: remove-Sorry couldn't cancel..!! Please try again!!
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:104:31
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: remove-Sorry couldn't cancel..!! Please try again!!
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:104:31
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: remove-Sorry couldn't cancel..!! Please try again!!
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:104:31
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: remove-Sorry couldn't cancel..!! Please try again!!
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:104:31
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Delete-Sorry couldn't cancel..!! Please try again!!
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:96:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Delete-Sorry couldn't cancel..!! Please try again!!
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:96:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: increase-Sorry couldn't cancel..!! Please try again!!
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:110:39
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have no Planned Trips
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:84:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have no Planned Trips
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:84:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have a another package booked in selected trip span!!
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:48:35
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+ObjectParameterError: Parameter "obj" to Document() must be an object, got U1003
+    at new ObjectParameterError (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\error\objectParameter.js:25:11)
+    at model.Document (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:89:11)
+    at model.Model (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\model.js:105:12)
+    at new model (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\model.js:4708:15)
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\model.js:3108:22
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\model.js:3144:7
+    at Array.forEach (<anonymous>)
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\model.js:3143:15
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\helpers\promiseOrCallback.js:31:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\helpers\promiseOrCallback.js:30:10)
+    at Function.create (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\model.js:3078:10)
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\model\bookings.js:21:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+ObjectParameterError: Parameter "obj" to Document() must be an object, got U1003
+    at new ObjectParameterError (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\error\objectParameter.js:25:11)
+    at model.Document (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:89:11)
+    at model.Model (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\model.js:105:12)
+    at new model (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\model.js:4708:15)
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\model.js:3108:22
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\model.js:3144:7
+    at Array.forEach (<anonymous>)
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\model.js:3143:15
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\helpers\promiseOrCallback.js:31:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\helpers\promiseOrCallback.js:30:10)
+    at Function.create (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\model.js:3078:10)
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\model\bookings.js:21:31
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+ObjectParameterError: Parameter "obj" to Document() must be an object, got U1003
+    at new ObjectParameterError (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\error\objectParameter.js:25:11)
+    at model.Document (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:89:11)
+    at model.Model (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\model.js:105:12)
+    at new model (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\model.js:4708:15)
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\model.js:3108:22
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\model.js:3144:7
+    at Array.forEach (<anonymous>)
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\model.js:3143:15
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\helpers\promiseOrCallback.js:31:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\helpers\promiseOrCallback.js:30:10)
+    at Function.create (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\model.js:3078:10)
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\model\bookings.js:21:31
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have no Planned Trips
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:84:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have no Planned Trips
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:84:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have no Planned Trips
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:84:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have no Planned Trips
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:84:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have no Planned Trips
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:84:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have no Planned Trips
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:84:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have no Planned Trips
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:84:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have no Planned Trips
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:84:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have no Planned Trips
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:84:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have no Planned Trips
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:84:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have no Planned Trips
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:84:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have no Planned Trips
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:84:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have no Planned Trips
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:84:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have no Planned Trips
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:84:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have no Planned Trips
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:84:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have no Planned Trips
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:84:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have a another package booked in selected trip span!!
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:48:35
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have no Planned Trips
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:84:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have no Planned Trips
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:84:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have no Planned Trips
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:84:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have no Planned Trips
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:84:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have no Planned Trips
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:84:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have no Planned Trips
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:84:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have no Planned Trips
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:84:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have no Planned Trips
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:84:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have no Planned Trips
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:84:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have no Planned Trips
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:84:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have no Planned Trips
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:84:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have no Planned Trips
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:84:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have no Planned Trips
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:84:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have no Planned Trips
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:84:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have no Planned Trips
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:84:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have no Planned Trips
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:84:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have no Planned Trips
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:84:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have no Planned Trips
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:84:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter correct password
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Delete-Sorry couldn't cancel..!! Please try again!!
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:96:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have no Planned Trips
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:84:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have no Planned Trips
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:84:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have no Planned Trips
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:84:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have no Planned Trips
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:84:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have no Planned Trips
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:84:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have no Planned Trips
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:84:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: connection.hdCollection is not a function
+    at Object.packageDB.updateAvailability (C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\model\packageDestinations.js:56:27)
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:16:38
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have no Planned Trips
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:84:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have no Planned Trips
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:84:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter the registered contact number!
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter correct password
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have a another package booked in selected trip span!!
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:48:35
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have no Planned Trips
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:84:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have no Planned Trips
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:84:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have a another package booked in selected trip span!!
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:48:35
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have a another package booked in selected trip span!!
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:48:35
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have a another package booked in selected trip span!!
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:48:35
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have no Planned Trips
+    at C:\Users\PSC\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:84:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter the registered contact number!
+    at C:\Users\saiteja\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter correct password
+    at C:\Users\saiteja\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have a another package booked in selected trip span!!
+    at C:\Users\saiteja\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:48:35
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have no Planned Trips
+    at C:\Users\saiteja\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:84:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: You have no Planned Trips
+    at C:\Users\saiteja\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:84:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Delete-Sorry couldn't cancel..!! Please try again!!
+    at C:\Users\saiteja\Desktop\Code-ToTrainee\Code-ToTrainee\wanderlust-web-service\src\service\bookings.js:96:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)

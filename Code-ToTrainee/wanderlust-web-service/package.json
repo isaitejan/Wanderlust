@@ -1,0 +1,15 @@
+{
+  "name": "wanderlust-web-service",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "cors": "^2.8.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.0",
+    "mongoose": "^5.4.17",
+    "body-parser": "^1.18.3"
+  }
+}
